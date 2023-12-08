@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Stats
-[![ ](https://github-readme-stats-yhw5wwio9-austin-kerrs-projects.vercel.app/api?username=austin-kerr&theme=dracula&show=reviews%2Cprs_merged%2Cprs_merged_percentage&hide=stars%2Cissues)](https://github.com/austin-kerr/github-readme-stats)
-
-
-[![GitHub stats](https://github-readme-stats-yhw5wwio9-austin-kerrs-projects.vercel.app/api?username=austin-kerr&theme=dracula&show=reviews%2Cprs_merged%2Cprs_merged_percentage&hide=stars%2Cissues)](https://github.com/austin-kerr/github-readme-stats)
+[![GitStats](https://github-readme-stats-yhw5wwio9-austin-kerrs-projects.vercel.app/api?username=austin-kerr&theme=dracula&show=reviews%2Cprs_merged%2Cprs_merged_percentage&hide=stars%2Cissues)](https://github.com/austin-kerr/github-readme-stats)
