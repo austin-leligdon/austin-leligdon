@@ -20,4 +20,4 @@
 [![ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white&color=ff6e96)](https://www.ruby-lang.org/en/)
 
 ### Stats
-[![GitStats](https://github-readme-stats-khaki-alpha.vercel.app/api?username=austin-leligdon&theme=dracula&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues)](github-readme-stats-khaki-alpha.vercel.app)
+[![GitStats](https://github-readme-stats-khaki-alpha.vercel.app/api?username=austin-leligdon&theme=dracula&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues)](github-readme-stats-khaki-alpha.vercel.app)
